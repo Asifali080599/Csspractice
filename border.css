@@ -1,0 +1,30 @@
+.dotted{
+    border-style: dotted;
+    border-width: 5px 20px;
+    border-color: blue;
+}
+
+p.dashed{
+    border-style: dashed;
+    border-color: black;
+}
+
+p.solid{
+    border-style: solid;
+    border-color: aqua;
+}
+
+p.double{
+    border-style: double;
+    border-color: blueviolet; 
+    
+}
+
+p.inset{
+    border-style: inset;
+    border-color: antiquewhite;
+}
+
+p.outset{border-style: outset;
+border-color: green;
+}

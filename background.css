@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(0, 110, 255);
+    background-image: url(./images/wallpaper\ 123.webp);
+    background-position: center;
+    
+    
+}
+
+h1{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h3{background-color: palevioletred;}
+
+p{
+    background-color: bisque;
+    font-style: ;
+}
+
+div{
+    background-color: aquamarine;
+}
